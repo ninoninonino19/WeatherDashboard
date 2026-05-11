@@ -2,7 +2,7 @@
 // WEATHER DASHBOARD - WITH AUTOCOMPLETE & REDESIGN
 // ============================================
 
-const API_KEY = '3e194ea437c773f7a95d7fc5e3ddfbe3'; // ⚠️ REPLACE WITH YOUR WORKING KEY
+const API_KEY = 'YOU_API_HERE'; // ⚠️ REPLACE WITH YOUR WORKING KEY
 
 // DOM Elements
 const cityInput = document.getElementById('cityInput');
